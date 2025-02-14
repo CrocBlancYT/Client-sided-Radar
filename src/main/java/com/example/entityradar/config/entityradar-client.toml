@@ -1,0 +1,3 @@
+[ClientSettings]
+	# URL of the server to send ship data
+	serverUrl = "http://192.168.1.157:8000/shipdata"
