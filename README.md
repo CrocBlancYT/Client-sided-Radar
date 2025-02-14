@@ -1,4 +1,4 @@
-The config file is only loaded once when the Minecraft instance is first start.
+The config file is only loaded once when the Minecraft instance is first started.
 
 
 
