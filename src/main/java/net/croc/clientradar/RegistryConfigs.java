@@ -53,7 +53,7 @@ public class RegistryConfigs {
 
             path_entity_radar = CLIENT_BUILDER .define("path entity radar", "/entity");
             path_ship_radar   = CLIENT_BUILDER .define("path ship radar", "/ship");
-            path_player_input = CLIENT_BUILDER .define("path player radar", "/player");
+            path_player_input = CLIENT_BUILDER .define("path player input", "/player");
 
             getID_Slug = CLIENT_BUILDER .define("id_&_slug", false);
             getOmega_Vel = CLIENT_BUILDER .define("omega_&_vel", false);
